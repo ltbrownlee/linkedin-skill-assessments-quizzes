@@ -64,8 +64,8 @@ D. longitude, latitude
 #### Q8. The Excel function IF is nearly the same as which DAX function?
 
 - [ ] SWITCH
-- [ ] IF
-- [x] IFX
+- [x] IF
+- [ ] IFX
 - [ ] IFS
 
 #### Q9. Consider the Power BI extract, transform, and load process (ETL). During this process, data is read and then
